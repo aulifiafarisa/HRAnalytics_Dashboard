@@ -6,6 +6,7 @@ The Dashboard is designed to provide a data-driven approach that enables HR team
 
 ## Data
 Source: <a href="https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/5ca88650a7965dc78ece3547a8398f31c766e3b2/HR_Analytics.csv"> HR Dataset</a>
+
 Description: The dataset table HR Analytics contains 1480 rows and 38 columns, with information about employees including demographic info, job performance, salary, attrition, etc.
 
 ## Tools
