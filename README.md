@@ -4,7 +4,8 @@ Provides a comprehensive overview of employee data, focusing on attrition and ke
 ## Purpose
 The Dashboard is designed to provide a data-driven approach that enables HR teams to make informed decision based on key workforce metrics, highlight areas of concern by pinpointing specific demographics, roles, or departments requiring attention, and monitor workforce health by tracking attrition rates, job satisfaction and other metrics to maintain a stable and engaged workforce.
 
-## Data Source
+## Data
+Source: <a href="https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/5ca88650a7965dc78ece3547a8398f31c766e3b2/HR_Analytics.csv"> HR Dataset</a>
 Description: The dataset table HR Analytics contains 1480 rows and 38 columns, with information about employees including demographic info, job performance, salary, attrition, etc.
 
 ## Tools
