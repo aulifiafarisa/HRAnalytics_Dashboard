@@ -16,25 +16,31 @@ Microsoft Power BI
 
 1. Attrition Overview
 ![image alt](https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/7aad9d806be08fda890a55c323b87cb9b76b05c1/Attrition%20Overview.png)
+
 The total number of employees (1,470), employee attrition (237), and attrition rate (16.12%) provide a quick snapshot of workforce stability. If the attrition rate is higher than industry standards, HR teams can investigate the causes and develop targeted retention strategies.
 
 2. Salary and Attrition
+![image alt](https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/ce981723e534aa52f69a04dc9d3284378d1e41bc/Salary%20and%20Attrition.png)
 
 Employees who leave (Attrition = Yes) have a lower average salary ($4.8K) compared to those who stay ($6.8K). Consider revising compensation policies or conducting market benchmarking to ensure competitive salaries for high-risk roles.
 
 3. Attrition by Education Field
+![image alt](https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/ce981723e534aa52f69a04dc9d3284378d1e41bc/Attrition%20by%20Education%20Field.png)
 
 Employees from "Life Sciences" (37.55%) and "Medical" (26.58%) fields have the highest attrition. Explore if job satisfaction, career growth opportunities, or workload are contributing to attrition in these fields.
 
 4. Attrition by Age Group
+![image alt](https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/ce981723e534aa52f69a04dc9d3284378d1e41bc/Attrition%20by%20Age%20Group.png)
 
 The 26–35 age group has the highest attrition, followed by the 18–25 group. Focus on career development programs, mentorship, and engagement initiatives for younger employees to improve retention.
 
-5. Employee Tenure and Attrition
+6. Employee Tenure and Attrition
+![image alt](https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/ce981723e534aa52f69a04dc9d3284378d1e41bc/Employee%20Tenure%20and%20Attrition.png)
 
 Attrition peaks at employees with fewer than 5 years at the company and significantly drops afterward. Strengthen onboarding, training, and early-career development programs to retain employees during their initial years.
 
 6. Job Role and Satisfaction
+![image alt](https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/ce981723e534aa52f69a04dc9d3284378d1e41bc/Job%20Role%20and%20Satisfaction.png)
 
 Roles such as "Sales Executive" and "Laboratory Technician" show lower job satisfaction levels (ratings 1 and 2) and higher attrition rates. Roles like "Research Scientist" and "Healthcare Representative" have mixed satisfaction ratings (3 and 4) but still experience notable attrition. Roles such as "Manager" and "Research Director" show higher satisfaction levels (ratings 3 and 4) and lower attrition rates. The uneven distribution of satisfaction scores highlights specific roles needing targeted improvement efforts.
 Conduct role-specific surveys to understand dissatisfaction and take corrective measures, such as workload redistribution, recognition programs, or upskilling. Align roles with employees' skills and interests to foster engagement and retention. For Roles with High Satisfaction and Low Attrition, Maintain and replicate best practices from these roles across other departments. Recognize and reward high-performing employees to sustain satisfaction and motivation.
