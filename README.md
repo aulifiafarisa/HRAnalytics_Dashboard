@@ -12,7 +12,7 @@ Description: The dataset table HR Analytics contains 1480 rows and 38 columns, w
 ## Tools
 Microsoft Power BI
 
-Key insight and Analysis:
+## Key insight and Analysis:
 
 1. Attrition Overview
 
