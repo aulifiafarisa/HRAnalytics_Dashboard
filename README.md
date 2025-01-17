@@ -15,7 +15,8 @@ Microsoft Power BI
 ## Key insight and Analysis:
 
 1. Attrition Overview
-!(https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/7aad9d806be08fda890a55c323b87cb9b76b05c1/Attrition%20Overview.png)
+   
+![image alt](https://github.com/aulifiafarisa/HRAnalytics_Dashboard/blob/7aad9d806be08fda890a55c323b87cb9b76b05c1/Attrition%20Overview.png)
 
 The total number of employees (1,470), employee attrition (237), and attrition rate (16.12%) provide a quick snapshot of workforce stability. If the attrition rate is higher than industry standards, HR teams can investigate the causes and develop targeted retention strategies.
 
